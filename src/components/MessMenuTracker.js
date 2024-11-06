@@ -159,10 +159,6 @@ const MessMenuTracker = () => {
               <p className="text-gray-600">
                 Made with ❤ for IIIT-H Students
               </p>
-              // <span className="hidden sm:inline text-gray-400">|</span>
-              // <p className="text-gray-500 text-sm">
-              //   Want to update the menu? Fork the repository and submit a PR!
-              // </p>
               <span className="hidden sm:inline text-gray-400">|</span>
               <p className="text-gray-500 text-xs">
                 by Affan Shaik ✌
