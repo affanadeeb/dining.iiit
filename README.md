@@ -1,8 +1,7 @@
 # IIIT-H Mess Menu Tracker
-
-A web application to track daily mess menus at IIIT Hyderabad.
 ![image](https://github.com/user-attachments/assets/85c5cbad-944f-4027-b6dd-32f1632c3e96)
 
+A web application to track daily mess menus at IIIT Hyderabad.
 ## About
 
 This application displays the menu for different messes at IIIT Hyderabad, including:
